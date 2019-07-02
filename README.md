@@ -6,3 +6,6 @@ In this project we applied our computational photography with the purpose of cre
 	1) copy frames of a video in videos/source/*
 	2) run main.py
 	3) output will be stored in videos/out/
+	
+## sample output
+![output](videos/out/candle/candle.gif)
